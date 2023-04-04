@@ -1,0 +1,2 @@
+module Omniauthcallback::UsersHelper
+end
